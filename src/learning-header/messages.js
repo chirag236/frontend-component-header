@@ -8,7 +8,7 @@ const messages = defineMessages({
   },
   help: {
     id: 'header.help.label',
-    defaultMessage: 'Help',
+    defaultMessage: 'Chirag Help',
     description: 'The text for the link to the Help Center',
   },
   profile: {
